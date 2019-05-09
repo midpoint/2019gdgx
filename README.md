@@ -3,7 +3,7 @@
 
 ## 说明
 本项目用来解决“2019年广东省专业技术人员公需课在线学习平台”自动浏览视频的需求。
-公需学习平台地址：http://ggfw.gdhrss.gov.cn/zxpx/
+>公需学习平台地址：http://ggfw.gdhrss.gov.cn/zxpx/
 
 ## 功能
   - 自动答题
